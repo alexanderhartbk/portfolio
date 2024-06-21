@@ -1,0 +1,120 @@
+{
+    "basic_info": {
+      "description_header": "My name is Alex Hart",
+      "description": "I’m a Computer Science graduate from CUNY Brooklyn College.  Passionate about technology; I have spent the past 15 years accumulating a diverse skillset — ranging from app to web development, across a wide array of languages and frameworks.  I leverage my thirst for knowledge and drive to stay up-to-date with the latest cutting-edge technologies, and always try my best to deliver concrete results.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "DeFi Digital",
+        "startDate": "2020",
+        "description": "DeFi Digital is an independent media firm offering institutional-caliber motion graphics and marketing services for Web3 clients.",
+        "images": [
+          "images/portfolio/defi-digital/p1.jpg",
+          "images/portfolio/defi-digital/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jQuery"
+          }
+        ]
+      },{
+        "title": "BCeV",
+        "startDate": "2020",
+        "description": "Senior final year project — implemented Python-based web app, integrating specific blockchain network for voting system PoC.",
+        "images": [
+          "images/portfolio/bcev/p1.jpg",
+          "images/portfolio/bcev/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Bachelors, Computer Science",
+        "title": "CUNY Brooklyn College",
+        "years": "12.2015 - 09.2016",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "C++",
+          "JavaScript",
+          "Python"
+        ]
+      },
+
+        {
+          "company": "iOS app for connecting with new faces on campus. Integrated Google Maps API for location services.  Implemented chat messaging, user registration and login systems.",
+          "title": "Social Networking App",
+          "years": "08.2015 - 05.2020",
+          "mainTech": [
+            ""
+          ],
+          "technologies": [
+            "Swift",
+            "MySQL"
+          ]
+        },
+
+                {
+                  "company": "Python-based web app, integrating Algorand blockchain testnet for digital voting system PoC for campus",
+                  "title": "BCeV",
+                  "years": "01.2020 - 05.2020",
+                  "mainTech": [
+                    ""
+                  ],
+                  "technologies": [
+                    "Python",
+                    "HTML",
+                    "CSS"
+                  ]
+                },
+      {
+        "company": "Implemented portfolio website to showcase video motion graphic designs.",
+        "title": "DeFi Digital",
+        "years": "12.2020 - 08.2022",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "jQuery"
+        ]
+      }
+    ]
+  }
